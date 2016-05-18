@@ -1,8 +1,8 @@
 # hello-world
-first project
+To check out:
+git clone git@github.com:hdowns/hello-world.git
+// You can get the exact string from the "Clone or Download" button 
 
-Testing commit.
-
-This is an edit I did locally in vim.
-
-Can I get it into the remote repo?
+To commit:
+commit -a
+push
